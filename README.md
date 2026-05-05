@@ -3,6 +3,11 @@
 
 ---
 
+### 📌 Quick Navigation
+[Motivation](#-motivation) | [Core Vision](#i-core-vision) | [Phase 1: Anatomy](#ii-phase-1-anatomy--establishing-physical-sovereignty) | [Phase 2: Physiology](#iii-phase-2-physiology--capturing-precursor-signals) | [Phase 3: Diagnostics](#iv-phase-3-diagnostics--cross-terminal-fault-contagion-tracking) | [Phase 4: Paradigm Shift](#v-phase-4-paradigm-shift--individualized-management--value-maximization) | [Milestones](#vi-milestones)
+
+---
+
 ### 📝 Motivation
 
 **Inspired by the 2026 research of Xin Zhou et al. on Transformer-based harmonic detection:**
