@@ -4,7 +4,7 @@
 > **Author:** Yi Zeng   
 > **Framework:** Causal Auditing for Offshore Wind Sub-health Diagnosis  
 > **📄 Manuscript PDF:** [Read the Full Paper Here](./A%20Causal%20Auditing%20Paradigm%20for%20Sub-health%20Diagnosis%20of%20Offshore%20Wind%20Assets%20via%20Multi-terminal%20Harmonic%20Fingerprinting.pdf)  
-> **DOI:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20149719-blue)](https://doi.org/10.5281/zenodo.20149719)
+> **DOI:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20149720-blue)](https://doi.org/10.5281/zenodo.20149720)
 
 ---
 
@@ -58,13 +58,17 @@ Under extreme aerodynamic turbulence (e.g., sudden wind speed shifts), the error
 
 If you utilize the concepts or content of this project in your research, please cite our preprint paper:
 
+**APA Format:**
+> Zeng, Y. (2026). A Causal Auditing Paradigm for Sub-health Diagnosis of Offshore Wind Assets via Multi-terminal Harmonic Fingerprinting (V1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20149720
+
+**BibTeX:**
 ```bibtex
 @article{zeng2026clark,
-  title={A Causal Auditing Paradigm for Sub-health Diagnosis of Offshore Wind Assets via Multi-terminal Harmonic Fingerprinting},
+  title={A Causal Auditing Paradigm for Sub-health Diagnosis of Offshore Wind Assets via Multi-terminal Harmonic Fingerprinting (V1.0.0)},
   author={Yi Zeng},
   year={2026},
-  journal={Preprint},
-  doi={10.5281/ZENODO.20149719}
+  journal={Zenodo},
+  doi={10.5281/zenodo.20149720}
 }
 ```
 
