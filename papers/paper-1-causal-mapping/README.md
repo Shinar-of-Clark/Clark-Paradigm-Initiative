@@ -2,7 +2,8 @@
 
 > **Project Identity:** Shinar of Clark  
 > **Author:** Yi Zeng   
-> **Framework:** Causal Auditing for Offshore Wind Sub-health Diagnosis
+> **Framework:** Causal Auditing for Offshore Wind Sub-health Diagnosis  
+> **📄 Manuscript PDF:** [Read the Full Paper Here](./A%20Causal%20Auditing%20Paradigm%20for%20Sub-health%20Diagnosis%20of%20Offshore%20Wind%20Assets%20via%20Multi-terminal%20Harmonic%20Fingerprinting.pdf)
 
 ---
 
