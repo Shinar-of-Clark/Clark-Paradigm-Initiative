@@ -15,6 +15,7 @@
   - **Abstract:** This paper establishes the "Electromagnetic Ledger" system. By executing a real-time audit of the 1st-20th order harmonic fingerprints across generators, converters, switchgears, and collector cables, it enables a paradigm shift from traditional "stochastic state prediction" to "deterministic causal auditing" ($\Delta = Physical\ Reality - Causal\ Expectation$).
   - **DOI:** [10.5281/ZENODO.20149719](https://doi.org/10.5281/ZENODO.20149719)
   - **Directory:** [`papers/paper-1-causal-mapping`](./papers/paper-1-causal-mapping)
+  - **PDF:** [Read the Full Paper Here](./papers/paper-1-causal-mapping/A%20Causal%20Auditing%20Paradigm%20for%20Sub-health%20Diagnosis%20of%20Offshore%20Wind%20Assets%20via%20Multi-terminal%20Harmonic%20Fingerprinting.pdf)
 
 ---
 
