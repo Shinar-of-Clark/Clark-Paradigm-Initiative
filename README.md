@@ -8,17 +8,27 @@
 
 ---
 
+### 📢 Update Log
+
+- **[2026-05-13] Paper 1 Published:** We have officially released our first preprint paper under the Phase 1 Anatomy framework.
+  - **Title:** *A Causal Auditing Paradigm for Sub-health Diagnosis of Offshore Wind Assets via Multi-terminal Harmonic Fingerprinting*
+  - **Abstract:** This paper establishes the "Electromagnetic Ledger" system. By executing a real-time audit of the 1st-20th order harmonic fingerprints across generators, converters, switchgears, and collector cables, it enables a paradigm shift from traditional "stochastic state prediction" to "deterministic causal auditing" ($\Delta = Physical\ Reality - Causal\ Expectation$).
+  - **DOI:** [10.5281/ZENODO.20149719](https://doi.org/10.5281/ZENODO.20149719)
+  - **Directory:** [`papers/paper-1-causal-mapping`](./papers/paper-1-causal-mapping)
+
+---
+
 ### 📝 Motivation
 
 **Inspired by the 2026 research of Xin Zhou et al. on Transformer-based harmonic detection:**
-While state-of-the-art research demonstrates the potential of using meteorological data to predict power quality, the actual deployment faces significant uncertainty in mapping "external force" to "internal electrical state." 
+While predicting transformer health based on external variables like wind speed is a promising direction, the stochastic nature of wind (directionality, turbulence) and the complexity of blade-force interaction introduce excessive uncertainty. These "external-to-internal" mapping models often suffer from broken physical causal chains.
 
 <div align="center">
   <img src="./assets/direct_causal_path.png" width="80%" />
-  <p><i>Fig 1: Finding the Most Direct Causal Path — Decoupling External Stress</i></p>
+  <p><i>Fig 1: From External Stochastic Prediction to Internal Causal Auditing</i></p>
 </div>
 
-I aim to explore a **more direct and stable** path: bypassing complex external mechanical stress analysis and reading the system's "heartbeat" directly through **1-20th order harmonics**. This is a pursuit of extreme stability and low-coupling, providing a simpler and more intuitive health dimension for power assets.
+I aim to bridge this gap by establishing a **direct electrical causal audit**: bypassing the uncertainty of mechanical force analysis and reading the system's internal state directly through **RMS and 1-20th order harmonics** across A, B, and C terminals. This transforms asset management from unreliable environmental prediction into a precise, internal "Physiological Audit," enabling the early capture of latent faults with deterministic accuracy.
 
 <div align="center">
   <img src="./assets/evolutionary_route.png" width="85%" />
@@ -77,8 +87,8 @@ We are pivoting from expensive and hard-to-deploy Partial Discharge (PD) monitor
 ### III. Phase 2: Physiology — Capturing Precursor Signals
 > **Objective**: Deconstruct the temporal evolution of H1-H20 features to identify "sub-health" fingerprints across nodes A, B, and C.
 
-- **Core Logic**: Decoupling complex current waveforms into independent feature tokens. Analyzing the **Time Lag** between different harmonic frequencies.
-- **Key Discovery**: Identifying the precursor causal chain of anomalies from H1 to H20 across A-B-C terminals.
+- **Core Logic**: Correlating decoupled harmonic feature tokens across A-B-C terminals. Analyzing the **Time Lag** between internal electrical shifts at different nodes.
+- **Key Discovery**: Identifying the predictive causal chain from source (Node A) to output (Node C) using H1-H20 precursor signals, effectively bypassing environmental noise.
 
 <div align="center">
   <img src="./assets/physiology_precursor_signals.png" width="80%" />
@@ -93,7 +103,8 @@ We are pivoting from expensive and hard-to-deploy Partial Discharge (PD) monitor
 > **Objective**: Build a fault evolution matrix for A-B-C terminals using CNN and Dynamic Causal Models (DCM) to grant assets a "Prescriptive Right."
 
 - **Core Logic (Correlation Modeling)**:
-    - **Cross-Terminal Correlation**: Analyzing how mechanical micro-wear at Node A propagates through Node B to Node C, establishing a full life-cycle fault chain (A→B→C).
+    - **Multi-Terminal Internal Prediction**: Linking electrical fingerprints (RMS, H1-H20) across A, B, and C nodes to predict fault evolution.
+    - **Cross-Terminal Correlation**: Analyzing how internal electromagnetic anomalies at Node A propagate through Node B to Node C.
     - **Temporal Evolution**: Tracking the "infection" path of harmonic features on the timeline; identifying how symptoms at Node C feedback to risks at Nodes B and A.
 
 <div align="center">
