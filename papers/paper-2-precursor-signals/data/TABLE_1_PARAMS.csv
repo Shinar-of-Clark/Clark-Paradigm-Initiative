@@ -1,0 +1,4 @@
+Category_and_Asset,Data_Scale,Physical_Phenomenon_and_Settings
+1. Low-frequency Fingerprint (Node A/B),20 discrete frequency orders,Injected H2 (0.15 p.u.) and H3 (0.12 p.u.) impulse pulses
+2. Impedance Array (Node C/D),256 sweep points (100-1000Hz),Non-linear left shift of resonance peak from 750Hz to 550Hz
+3. Time-domain Immunity (Global),200 discrete time steps,Injected 1.5x wind speed step load at t=100 and white noise (sigma=0.05)

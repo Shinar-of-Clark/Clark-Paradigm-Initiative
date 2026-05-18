@@ -1,0 +1,8 @@
+Monitoring_Node,Winding_Short_Circuit,IGBT_Aging,Cable_Moisture
+Node A (Generator),0.95,0.12,0.02
+Node B (Converter),0.45,0.88,0.05
+Node C1 (Transformer),0.1,0.3,0.15
+Node C2 (Collector Cable In),0.08,0.25,0.92
+Node D1 (Collector Cable Out),0.03,0.08,0.18
+Node D2 (Booster In),0.02,0.05,0.85
+Node E (Grid Connection),0.01,0.02,0.1

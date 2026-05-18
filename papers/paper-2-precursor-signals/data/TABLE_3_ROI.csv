@@ -1,0 +1,4 @@
+Configuration_Scheme,Hardware_Cost,Fault_Detection_Rate,OM_Expense_Reduction
+Traditional Single Point,1.0,45%,5%
+Three-Terminal Auditing,1.8,72%,18%
+Proposed Five-Terminal Scheme,2.4,95%,32%
