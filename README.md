@@ -10,6 +10,14 @@
 
 ### 📢 Update Log
 
+- **[2026-05-18] Paper 2 Published:** We have officially released our Phase 2 ("Physiology") manuscript on Zenodo.
+  - **Title:** *Causal Auditing and Protection Paradigm for Sub-health Offshore Wind Assets based on Multi-terminal Harmonic Fingerprinting*
+  - **Abstract:** Serving as the "Physiology" phase, this paper introduces a revolutionary Causal Auditing and Protection Shield. It transcends the static "Electromagnetic Ledger" of Phase 1 by establishing a dynamic, closed-loop immune system for wind turbines utilizing time-lag ($\Delta T$) precursor tracking.
+  - **DOI:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20267143-blue)](https://doi.org/10.5281/zenodo.20267143)
+  - **Directory:** [`papers/paper-2-precursor-signals`](./papers/paper-2-precursor-signals)
+  - **PDF:** [Read the Full Paper Here](./papers/paper-2-precursor-signals/Causal%20Auditing%20and%20Protection%20Paradigm%20for%20Sub-health%20Offshore%20Wind%20Assets%20based%20on%20Multi-terminal%20Harmonic%20Fingerprinting.pdf)
+
+
 - **[2026-05-13] Paper 1 Published:** We have officially released our first preprint paper under the Phase 1 Anatomy framework.
   - **Title:** *A Causal Auditing Paradigm for Sub-health Diagnosis of Offshore Wind Assets via Multi-terminal Harmonic Fingerprinting*
   - **Abstract:** This paper establishes the "Electromagnetic Ledger" system. By executing a real-time audit of the 1st-20th order harmonic fingerprints across generators, converters, switchgears, and collector cables, it enables a paradigm shift from traditional "stochastic state prediction" to "deterministic causal auditing" ($\Delta = Physical\ Reality - Causal\ Expectation$).

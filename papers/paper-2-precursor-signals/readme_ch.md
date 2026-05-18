@@ -4,7 +4,7 @@
 > **作者:** Yi Zeng   
 > **框架:** 海上风电资产亚健康状态的因果审计与保护机制  
 > **📄 论文 PDF:** [在此阅读完整论文](./Causal%20Auditing%20and%20Protection%20Paradigm%20for%20Sub-health%20Offshore%20Wind%20Assets%20based%20on%20Multi-terminal%20Harmonic%20Fingerprinting.pdf)  
-> **DOI:** [![DOI](https://img.shields.io/badge/DOI-Pending-blue)](https://doi.org/) *(注: 待发表后更新)*
+> **DOI:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20267143-blue)](https://doi.org/10.5281/zenodo.20267143)
 
 ---
 
@@ -56,15 +56,18 @@
 如果您在研究中使用了本项目的概念或内容，请引用我们的论文：
 
 **APA 格式:**
-> Zeng, Y. (2026). Causal Auditing and Protection Paradigm for Sub-health Offshore Wind Assets based on Multi-terminal Harmonic Fingerprinting. (In Preparation).
+> Zeng, Y. (2026). Causal Auditing and Protection Paradigm for Sub-health Offshore Wind Assets based on Multi-terminal Harmonic Fingerprinting (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20267143
 
 **BibTeX:**
 ```bibtex
-@article{zeng2026clark_protection,
+@misc{zeng2026clark_protection,
   title={Causal Auditing and Protection Paradigm for Sub-health Offshore Wind Assets based on Multi-terminal Harmonic Fingerprinting},
   author={Yi Zeng},
   year={2026},
-  note={In Preparation}
+  publisher={Zenodo},
+  version={v1.0.0},
+  doi={10.5281/zenodo.20267143},
+  url={https://doi.org/10.5281/zenodo.20267143}
 }
 ```
 
