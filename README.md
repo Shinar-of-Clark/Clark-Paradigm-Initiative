@@ -10,6 +10,14 @@
 
 ### 📢 Update Log
 
+- **[2026-05-21] Paper 3 Published:** We have officially released our Phase 3 ("Diagnostics") manuscript on Zenodo.
+  - **Title:** *Spatio-Temporal Fault Contagion Tracking and Predictive Asset Management for Offshore Wind Farms Based on Multi-Terminal Harmonic Fingerprints*
+  - **Abstract:** Serving as the "Diagnostics" phase (Phase 3), this paper introduces a holographic Fault Contagion Tracking and Predictive Asset Management Framework. By quantifying the exact Propagation Delay ($\Delta t$) across a "5-Level 7-Node" multi-terminal topology, it transforms offshore assets from vulnerable nodes into a self-auditing, resilient network.
+  - **DOI:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20306854-blue)](https://doi.org/10.5281/zenodo.20306854)
+  - **Directory:** [`papers/paper-3-fault-correlation`](./papers/paper-3-fault-correlation)
+  - **PDF:** [Read the Full Paper Here](./papers/paper-3-fault-correlation/Spatio-Temporal%20Fault%20Contagion%20Tracking%20and%20Predictive%20Asset%20Management%20for%20Offshore%20Wind%20Farms%20Based%20on%20Multi-Terminal%20Harmonic%20Fingerprints.pdf)
+
+
 - **[2026-05-18] Paper 2 Published:** We have officially released our Phase 2 ("Physiology") manuscript on Zenodo.
   - **Title:** *Causal Auditing and Protection Paradigm for Sub-health Offshore Wind Assets based on Multi-terminal Harmonic Fingerprinting*
   - **Abstract:** Serving as the "Physiology" phase, this paper introduces a revolutionary Causal Auditing and Protection Shield. It transcends the static "Electromagnetic Ledger" of Phase 1 by establishing a dynamic, closed-loop immune system for wind turbines utilizing time-lag ($\Delta T$) precursor tracking.

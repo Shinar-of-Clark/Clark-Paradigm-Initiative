@@ -1,0 +1,106 @@
+Sample_ID,Condition,Health_State,Wind_Speed_m_s,Active_Power_MW,Segment,Node,Physical_Location,Harmonic_Band,Measured_Amplitude_pu
+1,Normal (Low Wind),Normal,8.0,1.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0116
+1,Normal (Low Wind),Normal,8.0,1.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0181
+1,Normal (Low Wind),Normal,8.0,1.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0142
+1,Normal (Low Wind),Normal,8.0,1.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0153
+1,Normal (Low Wind),Normal,8.0,1.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0085
+1,Normal (Low Wind),Normal,8.0,1.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0085
+1,Normal (Low Wind),Normal,8.0,1.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0075
+2,Normal (Rated Wind),Normal,12.0,5.0,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0257
+2,Normal (Rated Wind),Normal,12.0,5.0,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.026
+2,Normal (Rated Wind),Normal,12.0,5.0,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0201
+2,Normal (Rated Wind),Normal,12.0,5.0,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0232
+2,Normal (Rated Wind),Normal,12.0,5.0,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0227
+2,Normal (Rated Wind),Normal,12.0,5.0,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0213
+2,Normal (Rated Wind),Normal,12.0,5.0,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0151
+3,Normal (High Wind),Normal,15.0,5.0,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0188
+3,Normal (High Wind),Normal,15.0,5.0,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0218
+3,Normal (High Wind),Normal,15.0,5.0,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.016
+3,Normal (High Wind),Normal,15.0,5.0,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0282
+3,Normal (High Wind),Normal,15.0,5.0,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0173
+3,Normal (High Wind),Normal,15.0,5.0,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0159
+3,Normal (High Wind),Normal,15.0,5.0,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0191
+4,Stator Short Circuit (Mild),Generator_Fault,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0564
+4,Stator Short Circuit (Mild),Generator_Fault,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0163
+4,Stator Short Circuit (Mild),Generator_Fault,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0171
+4,Stator Short Circuit (Mild),Generator_Fault,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.018
+4,Stator Short Circuit (Mild),Generator_Fault,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0213
+4,Stator Short Circuit (Mild),Generator_Fault,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0154
+4,Stator Short Circuit (Mild),Generator_Fault,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0185
+5,Stator Short Circuit (Moderate),Generator_Fault,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.1109
+5,Stator Short Circuit (Moderate),Generator_Fault,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0139
+5,Stator Short Circuit (Moderate),Generator_Fault,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0195
+5,Stator Short Circuit (Moderate),Generator_Fault,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0151
+5,Stator Short Circuit (Moderate),Generator_Fault,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0141
+5,Stator Short Circuit (Moderate),Generator_Fault,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0229
+5,Stator Short Circuit (Moderate),Generator_Fault,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0231
+6,Stator Short Circuit (Severe),Generator_Fault,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.1631
+6,Stator Short Circuit (Severe),Generator_Fault,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0164
+6,Stator Short Circuit (Severe),Generator_Fault,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0144
+6,Stator Short Circuit (Severe),Generator_Fault,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0202
+6,Stator Short Circuit (Severe),Generator_Fault,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0178
+6,Stator Short Circuit (Severe),Generator_Fault,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0146
+6,Stator Short Circuit (Severe),Generator_Fault,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0184
+7,IGBT Dead-time Drift (Mild),Converter_Fault,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0053
+7,IGBT Dead-time Drift (Mild),Converter_Fault,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0541
+7,IGBT Dead-time Drift (Mild),Converter_Fault,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0276
+7,IGBT Dead-time Drift (Mild),Converter_Fault,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0316
+7,IGBT Dead-time Drift (Mild),Converter_Fault,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0081
+7,IGBT Dead-time Drift (Mild),Converter_Fault,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0102
+7,IGBT Dead-time Drift (Mild),Converter_Fault,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0105
+8,IGBT Dead-time Drift (Moderate),Converter_Fault,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0068
+8,IGBT Dead-time Drift (Moderate),Converter_Fault,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0947
+8,IGBT Dead-time Drift (Moderate),Converter_Fault,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0328
+8,IGBT Dead-time Drift (Moderate),Converter_Fault,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0344
+8,IGBT Dead-time Drift (Moderate),Converter_Fault,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0139
+8,IGBT Dead-time Drift (Moderate),Converter_Fault,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.011
+8,IGBT Dead-time Drift (Moderate),Converter_Fault,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0142
+9,IGBT Dead-time Drift (Severe),Converter_Fault,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0059
+9,IGBT Dead-time Drift (Severe),Converter_Fault,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.127
+9,IGBT Dead-time Drift (Severe),Converter_Fault,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0255
+9,IGBT Dead-time Drift (Severe),Converter_Fault,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0283
+9,IGBT Dead-time Drift (Severe),Converter_Fault,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0089
+9,IGBT Dead-time Drift (Severe),Converter_Fault,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0077
+9,IGBT Dead-time Drift (Severe),Converter_Fault,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0133
+10,Collector Cable Aging (Mild),Cable_Fault_C,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0086
+10,Collector Cable Aging (Mild),Cable_Fault_C,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0078
+10,Collector Cable Aging (Mild),Cable_Fault_C,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0224
+10,Collector Cable Aging (Mild),Cable_Fault_C,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0514
+10,Collector Cable Aging (Mild),Cable_Fault_C,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.013
+10,Collector Cable Aging (Mild),Cable_Fault_C,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0057
+10,Collector Cable Aging (Mild),Cable_Fault_C,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0149
+11,Collector Cable Aging (Moderate),Cable_Fault_C,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0127
+11,Collector Cable Aging (Moderate),Cable_Fault_C,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.007
+11,Collector Cable Aging (Moderate),Cable_Fault_C,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0171
+11,Collector Cable Aging (Moderate),Cable_Fault_C,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.1032
+11,Collector Cable Aging (Moderate),Cable_Fault_C,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0121
+11,Collector Cable Aging (Moderate),Cable_Fault_C,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0123
+11,Collector Cable Aging (Moderate),Cable_Fault_C,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0127
+12,Collector Cable Aging (Severe),Cable_Fault_C,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0057
+12,Collector Cable Aging (Severe),Cable_Fault_C,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0086
+12,Collector Cable Aging (Severe),Cable_Fault_C,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0182
+12,Collector Cable Aging (Severe),Cable_Fault_C,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.1486
+12,Collector Cable Aging (Severe),Cable_Fault_C,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0112
+12,Collector Cable Aging (Severe),Cable_Fault_C,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0083
+12,Collector Cable Aging (Severe),Cable_Fault_C,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0056
+13,Main Cable Overheating (Mild),Cable_Fault_D,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0081
+13,Main Cable Overheating (Mild),Cable_Fault_D,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0083
+13,Main Cable Overheating (Mild),Cable_Fault_D,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0123
+13,Main Cable Overheating (Mild),Cable_Fault_D,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0114
+13,Main Cable Overheating (Mild),Cable_Fault_D,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0219
+13,Main Cable Overheating (Mild),Cable_Fault_D,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0497
+13,Main Cable Overheating (Mild),Cable_Fault_D,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0062
+14,Main Cable Overheating (Moderate),Cable_Fault_D,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0121
+14,Main Cable Overheating (Moderate),Cable_Fault_D,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0126
+14,Main Cable Overheating (Moderate),Cable_Fault_D,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0106
+14,Main Cable Overheating (Moderate),Cable_Fault_D,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0127
+14,Main Cable Overheating (Moderate),Cable_Fault_D,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0179
+14,Main Cable Overheating (Moderate),Cable_Fault_D,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.0902
+14,Main Cable Overheating (Moderate),Cable_Fault_D,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0093
+15,Main Cable Overheating (Severe),Cable_Fault_D,11.0,4.2,Generator (A),Node A,Generator Output,"2nd, 3rd, 17th, 19th",0.0053
+15,Main Cable Overheating (Severe),Cable_Fault_D,11.0,4.2,Converter (B),Node B,Converter Outlet,"5th, 7th & Switching Sidebands",0.0061
+15,Main Cable Overheating (Severe),Cable_Fault_D,11.0,4.2,Collector Cable (C1),Node C1,Box Transformer LV,"11th, 13th (Reference)",0.0053
+15,Main Cable Overheating (Severe),Cable_Fault_D,11.0,4.2,Collector Cable (C2),Node C2,Collector Station Inlet,"11th, 13th (Resonance)",0.0114
+15,Main Cable Overheating (Severe),Cable_Fault_D,11.0,4.2,Main Cable (D1),Node D1,Collector Station Outlet,>17th (Energy Reference),0.0161
+15,Main Cable Overheating (Severe),Cable_Fault_D,11.0,4.2,Main Cable (D2),Node D2,Booster Station Inlet,>17th (Impedance Mismatch),0.1301
+15,Main Cable Overheating (Severe),Cable_Fault_D,11.0,4.2,Grid PCC (E),Node E,Grid Connection Point,Inter-harmonics,0.0141
