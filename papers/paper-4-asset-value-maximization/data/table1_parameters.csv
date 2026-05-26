@@ -1,0 +1,11 @@
+ParameterCategory,Symbol,Level,DataSource,DiagSignificance
+SCADA Run Info,T_run,Base,SCADA logs,Asset lifetime baseline calculation
+SCADA Load Info,I_rms,Base,常规CT,Overload current limits monitoring
+SCADA Load Info,Q_cum,Base,常规CT (计算),Total integrated charge (Ah)
+SCADA Thermal,T_temp,Base,温度传感器,Insulation hot-spot thermal stress
+SCADA Events,N_start,Base,SCADA logs,Winding transient mechanical stress cycles
+Harmonic Vector,IHD_h,Base,常规CT (高频FFT),Harmonic phase/magnitude finger-printing
+Harmonic Vector,THD,Base,常规CT,Integrated voltage/current distortion index
+Spatio-Temporal,P_h_dir,Base,常规CT \& PT,Harmonic power flow direction (source localization)
+Spatio-Temporal,I_unb,Base,常规CT,Current unbalance (turns short circuit indicators)
+Spatio-Temporal,H_thermal,Base,常规CT (计算),Cumulative thermal dissipation index

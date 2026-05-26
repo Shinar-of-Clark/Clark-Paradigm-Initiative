@@ -1,0 +1,11 @@
+Parameter,Weight
+T_run,0.05
+I_rms,0.12
+Q_cum,0.08
+T_temp,0.15
+N_start,0.04
+IHD_h,0.22
+THD,0.18
+P_h_dir,0.08
+I_unb,0.05
+H_thermal,0.03

@@ -1,0 +1,8 @@
+Name,Label,X,Y,Type
+A,Gen (A),0.0,1.0,physical
+B,Conv (B),2.0,1.0,physical
+C1,Xfmr LV (C1),4.0,1.5,physical
+C2,Xfmr MV (C2),4.0,0.5,physical
+D1,Cable Send (D1),6.0,1.5,physical
+D2,Cable Recv (D2),6.0,0.5,physical
+E,Grid PCC (E),8.0,1.0,physical

@@ -1,0 +1,11 @@
+From,To,Type
+A,B,power
+B,C1,power
+C1,C2,power
+C2,D1,power
+D1,D2,power
+D2,E,power
+B,A,contagion
+C2,C1,contagion
+D1,C2,contagion
+E,D2,contagion

@@ -1,0 +1,6 @@
+Metric,ReactiveMaint,PreventiveMaint,BianqueSystem
+MaintSchedule,After failure,Fixed 12 months,Optimal stop boundary H*
+DirectCost,2.0 (device),0.5 (proactive),0.5 (proactive)
+DowntimeReactive,8.0 (emergency),0.0,0.0
+ContagionLoss,1.5,0.0,0.0
+RemainingLifeRatio,0%,15.0%,99.1%
